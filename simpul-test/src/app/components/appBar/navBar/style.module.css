@@ -1,0 +1,9 @@
+.gridContainer {
+  align-items: center;
+  display: flex;
+  width: 160px;
+  margin: 0;
+  padding: 0;
+  margin-top: 4px;
+  margin-left: 290px;
+}
